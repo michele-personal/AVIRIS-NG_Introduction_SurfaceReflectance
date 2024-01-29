@@ -1,6 +1,6 @@
 # AVIRIS-NG Introduction ENVI Format Surface Reflectance
 
-**Author:** ORNL DAAC       
+**Author:** Michele Thornton       
 **Date:** August 14, 2022       
 **Contact for the ORNL DAAC:** uso@daac.ornl.gov
 
